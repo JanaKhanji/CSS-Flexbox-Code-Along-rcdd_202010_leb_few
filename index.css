@@ -16,7 +16,8 @@ main {
   height: 100%;
   display: flex;
   flex-wrap: wrap;
-  flex-flow: column wrap;align-items: center;
+  flex-flow: column wrap;
+  align-items: center;
   justify-content: center;
 }
 .item{
